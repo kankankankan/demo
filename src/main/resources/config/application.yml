@@ -1,0 +1,7 @@
+server:
+  port: 9090
+spring:
+  datasource:
+    url: jdbc:mysql://192.168.102.206/reptile?useUnicode=true&characterEncoding=UTF8
+    username: root
+    password: mysql
